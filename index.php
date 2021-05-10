@@ -1,5 +1,5 @@
 <html>
-<title>my-demo-repo</title>
+<title>my-demo-repo-edit-title</title>
 <head>Test</head>
 <body>
 <?php
