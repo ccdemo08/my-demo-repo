@@ -1,6 +1,6 @@
 <html>
 <title>my-demo-repo-edit-title</title>
-<head>Test</head>
+<head>Test local</head>
 <body>
 <?php
 
